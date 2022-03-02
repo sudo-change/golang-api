@@ -1,3 +1,3 @@
-# golnag-api
+# golang-api
 
-this repository is about apis
+this repository is all about API
