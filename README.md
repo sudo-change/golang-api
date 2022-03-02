@@ -9,3 +9,6 @@ small projects
 - https://github.com/dimaskiddo/codebase-go-rest
 - https://github.com/diegothucao/rest-api-golang
 - https://github.com/schandlergarcia/code-schools-api-golang
+
+### Blockchain
+- https://github.com/nspcc-dev/neofs-api-go
