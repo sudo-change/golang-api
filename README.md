@@ -2,6 +2,9 @@
 
 this repository is all about API
 
+### hands on
+- https://dev.to/andyhaskell/series/6096
+
 ### projects 
 - https://github.com/mingrammer/go-todo-rest-api-example
 - https://github.com/wilk/backend-api-go
