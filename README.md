@@ -8,6 +8,7 @@ this repository is all about API
 - https://mariocarrion.com/2021/04/18/golang-microservices-rest-api-http-handlers.html
 - https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
 - http://blog.johandry.com/post/intro-microservice-in-go-1/
+- https://sennalabs.com/en/blogs/building-a-finance-tracking-rest-api-using-go-with-tdd-part-1
 
 ### projects 
 - https://github.com/mingrammer/go-todo-rest-api-example
