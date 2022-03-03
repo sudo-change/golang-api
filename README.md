@@ -6,6 +6,7 @@ this repository is all about API
 - https://dev.to/andyhaskell/series/6096
 - https://jonnylangefeld.com/blog/how-to-write-a-go-api-part-1-webserver-with-iris
 - https://mariocarrion.com/2021/04/18/golang-microservices-rest-api-http-handlers.html
+- https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
 
 ### projects 
 - https://github.com/mingrammer/go-todo-rest-api-example
